@@ -8,9 +8,13 @@ Se detallan los objetivos del curso y los temas que se abordaran
 **Análisis bioinformático de datos provenientes del secuenciamiento del gen 16S rRNA empleando QIIME2**
 *Capacitadores:*
 - **Dr. Valentín Pérez-Hernández**
-- Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV) 
+- Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV)
+- (http://orcid.org/0000-0001-9907-1316)
+- (https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2) 
 - **Dr. Mario Hernández-Guzmán**
 - Doctor en ciencias con la especialidad en biotecnología (Posdoctorante CICESE)
+- (http://orcid.org/0000-0003-1420-6280)
+- (https://www.researchgate.net/profile/Mario-Hernandez-Guzman)
 
 **Resumen del curso:**
 -	Este curso brindará una capacitación general sobre el uso de la herramienta QIIME2 para analizar datos de secuenciación masiva del gen 16S rRNA. Los participantes aprenderán a procesar lecturas de secuenciación crudas (*.fastq), realizar controles de calidad, eliminar el ruido de las secuencias (denoising), asignar taxonomías (usando la base de datos de SILVA 138) y realizar análisis de diversidad (índices de chao1, Simpson, Shannon y otros). El curso cubre aspectos tanto teóricos como prácticos del pipeline de QIIME2, con ejercicios prácticos y empleando datos reales.
